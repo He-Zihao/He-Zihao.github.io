@@ -1,2 +1,7 @@
-site_name: My Docs
-theme: material
+site_name: 何子豪的个人网站
+site_url: https://he-zihao.github.io
+site_author: He-Zihao
+site_description: 何子豪的个人网站
+
+theme:
+  name: material
