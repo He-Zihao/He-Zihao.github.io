@@ -1,0 +1,17 @@
+# T-shirts
+
+## Do you usually wear T-shirts?
+
+Yes, I almost wear T-shirts all the summer. In fact, T-shirts are the most popular style of clothing all over the world among different ages, as it's so convenient and comfortable. It can be worn at both formal and informal situation.
+
+## Do you like T-shirts with pictures or prints?
+
+Well, I prefer T-shirts with pure color rather than that with pictures or prints. Because I think it's more suitable for me to dress in some simple styles. I have to be more careful to make my wearing seem to be harmonious if there are too many elements in my clothes.
+
+## Do you think older people are fashionable if they wear T-shirts?
+
+I don't think so. As I just said, T-shirts are very common in different ages. There are indeed so many people around me, no matter the younger or the elder, will wear T-shirts in summer. Maybe some elements, such as special pictures, in clothing can show a person's fashion.
+
+## Have you ever bought T-shirts as souvenirs?
+
+Emmm... In my memory I have not bought that as souvenirs and in fact I don't like too many pictures or words on my T-shirts. T-shirts as souvenirs usually have some certain sign on them, which will be not suitable in some occasions, especially in formal.
