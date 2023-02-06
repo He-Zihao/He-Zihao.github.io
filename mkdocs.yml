@@ -7,10 +7,22 @@ site_description: 何子豪的个人网站
 nav:
   - Home:
     - index.md
-  - speaking(Part 1):
-    - speaking(Part 1)/index.md
-    - 1T-shirts: speaking(Part 1)/1T-shirts.md
-    - 2Stay up late: speaking(Part 1)/2Stay up late.md
+  - speaking:
+    - speaking/index.md
+    - Part 1:
+      - 1.T-shirts:     speaking/P1/1.T-shirts.md
+      - 2.Stay up late: speaking/P1/2.Stay up late.md
+      - 3.Jewelry:      speaking/P1/3.Jewelry.md
+      - 4.Music:        speaking/P1/4.Music.md
+      - 5.Art:          speaking/P1/5.Art.md
+      - 6.Library:      speaking/P1/6.Library.md
+      - 7.Schools:      speaking/P1/7.Schools.md
+      - 8.Weekends:     speaking/P1/8.Weekends.md
+      - 9.Happiness:    speaking/P1/9.Happiness.md
+      - 10.Outer space and stars: speaking/P1/10.Outer space and stars.md
+      - 11.Small businesses: speaking/P1/11.Small businesses.md
+      - 12.Keys:        speaking/P1/12.Keys.md
+      - 13.Chocolate:   speaking/P1/13.Chocolate.md
 
 # [UI]
 ## [top]
