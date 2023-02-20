@@ -8,6 +8,6 @@ I’m a postgraduate student from Southeast University majoring in dynamical mec
 - Gender: male
 - Data of birth: December 1997
 - Contact: 
-	+ Email: he_zihao@foxmail.com / he_zihao@seu.edu.cn
+	+ Email: [he_zihao@foxmail.com](he_zihao@foxmail.com) or [he_zihao@seu.edu.cn](he_zihao@seu.edu.cn)
 
 
