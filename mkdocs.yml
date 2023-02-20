@@ -1,14 +1,19 @@
-site_name: 何子豪的个人网站
+site_name: Personal Website of He Zihao
 site_url: https://he-zihao.github.io
-site_author: He-Zihao
-site_description: 何子豪的个人网站
+site_author: He Zihao
+site_description: Personal Website of He Zihao
 
 # [Navigtion]
 nav:
   - Researches & Projects:
+    - ResearchesProjects/index.md
     - Load identification and software for a plate: ResearchesProjects/a plate.md
+    - Model updating and load identification of satellite structures: ResearchesProjects/satellite.md
+    - Spreader static load test: ResearchesProjects/spreader.md
+    - Crane beam fatigue test: ResearchesProjects/crane.md
+    - Model correction in thermal environment: ResearchesProjects/updatingInThermal.md
   - About:
-    - Home: index.md
+    - Home: About/index.md
     - Me: About/Me.md
 
 # [UI]
@@ -36,3 +41,35 @@ theme:
     - search.suggest # 搜索输入一些字母时推荐补全整个单词
     - search.highlight # 搜索出的文章关键词加入高亮
   language: en # 一些提示性的文字会变成中文
+
+
+  # [Extensions]
+  plugins:
+    - search: # 现在还不支持中文搜索 支持之后可以设置语言
+      # insider已经支持中文的分词搜索了 https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/
+        lang:
+          - en
+  markdown_extensions:
+    - pymdownx.arithmatex: # latex支持
+        generic: true
+    - attr_list # 给图片后面添加{width="300"}设置大小
+    - toc:
+        permalink: true # 固定标题位置为当前位置
+    - pymdownx.highlight: # 代码块高亮
+        # linenums: true # 显示行号
+        # auto_title: true # 显示编程语言名称
+    - pymdownx.superfences # 代码块高亮插件
+    - meta # 支持Markdown文件上方自定义标题标签等
+    - admonition # https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks
+    - pymdownx.details # admonition需要
+
+  extra_javascript:
+    # latex支持
+    # check https://squidfunk.github.io/mkdocs-material/reference/mathjax/?h=math for more information
+    # notice `curl https://polyfill.io/v3/polyfill.min.js?features=es6 > docs/mkdocs/javascripts/polyfill.min.js && curl https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js > docs/mkdocs/javascripts/tex-mml-chtml.js` not works... because there are other resources that need to load
+    - mkdocs/javascripts/mathjax.js
+    - https://polyfill.io/v3/polyfill.min.js?features=es6
+    - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # https://cdn.bytedance.com/?query=mathjax&version=3.2.0
+  extra_css:
+    - mkdocs/css/no-footer.css # 不使用底部的翻页
+    - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
