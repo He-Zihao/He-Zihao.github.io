@@ -5,24 +5,11 @@ site_description: 何子豪的个人网站
 
 # [Navigtion]
 nav:
-  - Home:
-    - index.md
-  - speaking:
-    - speaking/index.md
-    - Part 1:
-      - 1.T-shirts:     speaking/P1/1.T-shirts.md
-      - 2.Stay up late: speaking/P1/2.Stay up late.md
-      - 3.Jewelry:      speaking/P1/3.Jewelry.md
-      - 4.Music:        speaking/P1/4.Music.md
-      - 5.Art:          speaking/P1/5.Art.md
-      - 6.Library:      speaking/P1/6.Library.md
-      - 7.Schools:      speaking/P1/7.Schools.md
-      - 8.Weekends:     speaking/P1/8.Weekends.md
-      - 9.Happiness:    speaking/P1/9.Happiness.md
-      - 10.Outer space and stars: speaking/P1/10.Outer space and stars.md
-      - 11.Small businesses: speaking/P1/11.Small businesses.md
-      - 12.Keys:        speaking/P1/12.Keys.md
-      - 13.Chocolate:   speaking/P1/13.Chocolate.md
+  - Researches & Projects:
+    - Load identification and software for a plate: ResearchesProjects/a plate.md
+  - About:
+    - Home: index.md
+    - Me: About/Me.md
 
 # [UI]
 ## [top]
@@ -48,4 +35,4 @@ theme:
     - navigation.expand # 打开Tab时左侧目录全部展开
     - search.suggest # 搜索输入一些字母时推荐补全整个单词
     - search.highlight # 搜索出的文章关键词加入高亮
-  language: zh # 一些提示性的文字会变成中文
+  language: en # 一些提示性的文字会变成中文
