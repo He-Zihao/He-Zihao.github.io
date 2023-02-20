@@ -1,5 +1,5 @@
 # Hello
 
-这是我第一次尝试在GitHub上构建个人网站，没想到仅仅是因为想更好地看我的雅思口语准备材料。。。
+This is my personal website https://he-zihao.github.io/.
 
-
+Some of my works will show here.
