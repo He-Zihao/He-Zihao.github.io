@@ -1,3 +1,3 @@
 # Index
 
-Here is some work I have completed.
+Here is some work I have attended.
